@@ -26,7 +26,7 @@ contribute any additions, deletions, or corrections to the documentation.
 Getting Help
 ============
 
-If you're stuck, there are a number of places :doc:`you can get help
+If you're stuck, there are several places :doc:`you can get help
 </intro/where-to-get-help>`.
 
 First Steps
@@ -34,7 +34,7 @@ First Steps
 
 Learning a new framework can be intimidating and exciting at the same time. To
 help you along, we have created a cookbook packed with examples and recipes to
-get the common tasks completed. If you are new, you should start off with the
+get the common tasks completed. If you are new, you should start with the
 :doc:`/quickstart` as it will give you a quick tour of what
 CakePHP has to offer and how it works.
 
